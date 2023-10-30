@@ -5,7 +5,7 @@ import Homepage from "../pages/homepage";
 import HomeProductPage from "../pages/homePrdouctPage";
 
 
-const email = "Manju09@gmail.com";
+const email = "Manju10@gmail.com";
 const password = "Manju@123";
 test.describe("page object model demo", async () => {
    test("Register test_01", async ({ page, baseURL }) => {
